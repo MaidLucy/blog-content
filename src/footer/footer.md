@@ -6,8 +6,8 @@
 
 <table>
 <tr>
-<th style="text-align: left; width: 33%"><a href="/">back to index</a></th>
-<th style="text-align: center; width: 33%"><a href="/about.html">about</a></th>
-<th style="text-align: right; width: 33%"><a href="/rss.xml">RSS</a></th>
+<th style="border: none; text-align: left; width: 33%"><a href="/">back to index</a></th>
+<th style="border: none; text-align: center; width: 34%"><a href="/about.html">about</a></th>
+<th style="border: none; text-align: right; width: 33%"><a href="/rss.xml">RSS</a></th>
 </tr>
 </table>
