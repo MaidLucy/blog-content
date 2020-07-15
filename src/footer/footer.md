@@ -4,5 +4,5 @@
 
 ----------------------------------
 
-[back to index](https://lucy.moe)|[RSS Feed](rss.xml)
------|-----:
+[back to index](/)|[about](/about.html)|[RSS Feed](/rss.xml)
+----|:-----:|-----:
