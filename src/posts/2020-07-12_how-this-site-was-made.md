@@ -1,7 +1,6 @@
 ---
 title: How this site was made
-date: 2020-07-12
-lang: en-GB
+date: Sun, 12 Jul 2020 00:00:00 +0200
 ...
 
 I was pissed by wordpress.

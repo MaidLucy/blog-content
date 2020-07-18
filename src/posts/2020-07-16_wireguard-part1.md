@@ -1,6 +1,6 @@
 ---
 title: 'How I tied two VPNs and two home networks together to share files. (Part 1)'
-date: 2020-07-17
+date: Fri, 17 Jul 2020 00:00:00 +0200
 ...
 
 So, have you ever heared of wireguard?
