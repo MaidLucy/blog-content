@@ -1,6 +1,20 @@
 ---
 title: 'How I tied two VPNs and two home networks together to share files. (Part 1)'
 date: Fri, 17 Jul 2020 00:00:00 +0200
+header-includes:
+- |
+  <meta property="og:site_name" content="Lucys Blog" />
+  <meta property="twitter:site" content="@luxiterembis" />
+  <meta property="twitter:card" content="summary" />
+  <meta property="og:title" content="How I tied two VPNs and two home networks together to share files. (Part 1)" />
+  <meta property="twitter:title" content="How I tied two VPNs and two home networks together to share files. (Part 1)" />
+  <meta property="og:type" content="artice" />
+  <meta property="og:image" content="https://f.lucy.moe/pb.jpg" />
+  <meta property="twitter:image" content="https://f.lucy.moe/pb.jpg" />
+  <meta property="og:url" content="https://lucy.moe/2020-07-16_wireguard-part1.html" />
+  <meta property="og:author" content="Lucy" />
+  <meta property="og:description" content="So, have you ever heared of wireguard? The VPN that everyone speaks of and that is rising fast because it is very fast and has very low latency. Essentially, it's not even a VPN. All it is, is a very efficient and encrypted tunnel between two computers. It allows you to create a virtual network between any number of devices." />
+  <meta property="twitter:description" content="So, have you ever heared of wireguard? The VPN that everyone speaks of and that is rising fast because it is very fast and has very low latency. Essentially, it's not even a VPN. All it is, is a very efficient and encrypted tunnel between two computers. It allows you to create a virtual network between any number of devices." />
 ...
 
 So, have you ever heared of wireguard?

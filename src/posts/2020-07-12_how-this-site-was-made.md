@@ -1,6 +1,12 @@
 ---
 title: How this site was made
 date: Sun, 12 Jul 2020 00:00:00 +0200
+author: Lucy
+description: I was pissed by wordpress. Like, really really pissed. It was just all too much. All I wanted was a nice website where I could put markdown files in and out would come posts. So I started to think about creating my own.
+site-name: Lucys Blog
+og-type: artice
+og-url: 'https://lucy.moe/2020-07-12_how-this-site-was-made.html'
+header-image: 'https://f.lucy.moe/pb.jpg'
 ...
 
 I was pissed by wordpress.
