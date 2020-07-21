@@ -56,7 +56,7 @@ I downloaded a dark-mode themed example that was called `sakura-vader.css`, poin
 I had a really nice and modern looking output.
 It had to be a font with serifs though, so I changed the standard font to be serif, done!
 
-<!---  end of list --->
+<!--  end of list -->
 
 The next step was to design everything around pandoc.
 Via a bit of research I found out that pandoc actually takes multiple input files and puts them together in order just like `cat`.
@@ -70,7 +70,7 @@ This allowed me to split the index site up into four parts:
 
 4. A footer that would be on every page.
 
-<!---  end of list --->
+<!--  end of list -->
 
 A few changes to the overall document structure were required though, so that it would play nicely with web-standards and git, which I was planning to use to store the markdown files.
 

@@ -1,5 +1,6 @@
 ---
-title: 'How I tied two VPNs and two home networks together to share files. (Part 1)'
+title: 'How I tied two VPNs and two home networks together to share files.'
+subtitle: 'Part 1: Just two Networks at first'
 date: Fri, 17 Jul 2020 00:00:00 +0200
 description: So, have you ever heared of wireguard? The VPN that everyone speaks of and that is rising fast because it is very fast and has very low latency. Essentially, it's not even a VPN. All it is, is a very efficient and encrypted tunnel between two computers. It allows you to create a virtual network between any number of devices.
 ...
