@@ -10,6 +10,7 @@ filename=$(date --iso-8601=date --date="$date")-$(echo $title | sed -e 's/[^A-Za
 echo "---
 title: $title
 date: $date
+description: $title
 ..." >> src/posts/$filename
 
 # after creating the file, open it in $EDITOR
