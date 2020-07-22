@@ -1,7 +1,7 @@
 ---
 title: This blog now officially supports Open Grah Protocol and Twitter Cards
 date: Wed, 22 Jul 2020 10:55:04 +0200
-description: This blog now officially supports Open Grah Protocol and Twitter Cards
+description: As the title suggests, I have now successfully integrated the Open Graph Protocol for Discord, WhatsApp and the likes. Of course, Twitter Cards also needed to be added as this is the main social network I still use.
 ...
 
 As the title suggests, I have now successfully integrated the Open Graph Protocol for Discord, WhatsApp and the likes.
