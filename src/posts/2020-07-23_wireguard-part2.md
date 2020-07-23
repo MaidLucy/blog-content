@@ -60,7 +60,7 @@ He could even play back video but it was a bit spotty.
 This was probably due to my VDSL-speed upload of 40Mbit/s but downloading the files was not a problem.
 
 Also, what was quite funny was when I went from his house to my flat and looked at the server that was just receiving pings from his VPN.
-I always find that kinda stuff astonishing very astonishing.
+I always find that kinda stuff very astonishing.
 Packets traveling through two servers in two differnent datacenters and back to my home.
 Cheers.
 
