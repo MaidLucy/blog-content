@@ -19,9 +19,9 @@ If you would like to reach out to me, you can find me here:
 +------------+---------------------------------------------------+
 | E-Mail     | [lu@asagi.moe](mailto:lu@asagi.moe)               |
 +------------+---------------------------------------------------+
-| Github     | [Lux49](https://github.com/Lux49                  |
+| Github     | [Lux49](https://github.com/Lux49)                 |
 +------------+---------------------------------------------------+
-| Twitter    | [@luxiterembis](https://twitter.com/luxiterembis) |
+| Twitter    | <a href="https://twitter.com/luxiterembis">@luxiterembis</a> |
 +------------+---------------------------------------------------+
 | Discord    | Lucy#1752                                         |
 +------------+---------------------------------------------------+
