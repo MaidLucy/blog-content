@@ -6,7 +6,7 @@
 
 date=$(date --rfc-email)
 title=$@
-filename=$(date --iso-8601=date --date="$date")-$(echo $title | sed -e 's/[^A-Za-z0-9._-]/_/g').md
+filename=$(date --iso-8601=date --date="$date")_$(echo $title | sed -e 's/[^A-Za-z0-9._-]/_/g').md
 echo "---
 title: $title
 date: $date
