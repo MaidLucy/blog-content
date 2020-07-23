@@ -1,5 +1,5 @@
 ---
-title: 'How I tied two VPNs and two home networks together to share files.'
+title: 'How I tied two VPNs and two home networks together to share files. (pt. 2)'
 subtitle: |
   Part 2: I don't know what I'm doing.
 date: Thu, 23 Jul 2020 23:17:50 +0200
