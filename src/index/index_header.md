@@ -18,5 +18,5 @@ header-includes:
 
 Welcome to my Blog!
 
-Here is a simple list of all the posts:
+Here is a list of all the posts:
 
