@@ -9,7 +9,7 @@ At the moment I was using ext4 because I was annoyed by the file system checks t
 But as mentionied [in the post](https://www.phoronix.com/scan.php?page=article&item=linux-58-filesystems&num=1), 
 those checks could be a thing of the past in a few months because apparently others got annoyed by it aswell.
 
-People who are more technically skilled than I am sat down and reworked the part that initiates the check uppon startup,
+People who are more technically skilled than I am sat down and reworked the part that initiates the check upon startup,
 so that it would only check the whole disk when it is absolutely neccessairy.
 So far so good.
 This is the piece of information that would lead me into the journey of switching my Laptop back to F2FS (again).
