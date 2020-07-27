@@ -16,7 +16,7 @@ This is the piece of information that would lead me into the journey of switchin
 
 ## So how did I do it?
 
-After a bit of cleanup and removing large files, the steps were as follows:
+After a bit of cleanup and removal of large files, the steps were as follows:
 
 1. Boot the arch live-install media.
 It is the best environment for these kind of tasks.
