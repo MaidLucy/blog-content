@@ -58,11 +58,22 @@ This is the point where I realized that I forgot to install the `f2fs-tools`-pac
 So I quickly installed that with `pacman -Syyu f2fs-tools` and rerun the `mkinitcpio`-command.
 
 11. If you were using grub the system would now be 100% bootable and you could go on, but even though I installed grub just for safety, I don't use it.
+
+*(EDIT)*
+*Actually, your system wouldn't be bootable at all because I was stupid.
+You'd have to also change the UUID of the new partition in your `/etc/fstab`.
+I actually honestly forgot to do that for about 3 months until I noticed that systemd was complaining about not being able to remount the root filesystem for some unknown reason, haha.*
+*(alright, let's go on:)*
+
 Instead, I use [a unified kernel image](https://wiki.archlinux.org/index.php/Systemd-boot#Preparing_a_unified_kernel_image) where the inital ramdisk and kernel are contained in one bootable EFI-file
 that is then booted by the UEFI-firmware.
 
 Basically, because I store my kernel command line in a text file, I had to edit that text file and change the UUID of the root file system to match the new file system.
 My first attempt failed because I made a typo but after correcting that it would just boot up and it looked like nothing has changed at all.
+
+*(EDIT)
+Obviously, I didn't notice that I forgot to change the UUID in `/etc/fstab` because the correct UUID was givin via kernel command line and everything seemed to work
+This might have also been the cause for my GRUB not working unnoticed but I didn't actually test if this solved the problem of GRUB complaining about a missing filesystem. (duh)*
 
 <!-- end of list -->
 
