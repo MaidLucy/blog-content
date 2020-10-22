@@ -1,5 +1,5 @@
 ---
-title: kartoffelbrei
+title: 'Rezept: Kartoffelbrei'
 date: Thu, 22 Oct 2020 21:30:09 +0200
 description: 'Rezept: Kartoffelbrei'
 ...
