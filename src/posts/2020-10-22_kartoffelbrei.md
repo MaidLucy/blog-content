@@ -23,4 +23,4 @@ Währenddessen immer mal wieder umrühren.
 
 <!-- eol -->
 
-Guten Appetit! :potato: :yum: 
+Guten Appetit! 🥔😋
