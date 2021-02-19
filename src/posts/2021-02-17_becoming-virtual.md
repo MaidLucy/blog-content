@@ -103,7 +103,7 @@ But I'll get there, eventually.
 
 For now, I'll just play with the few free models that I found and use those to get set up.
 
-<!- eol ->
+<!-- eol -->
 
 In the end I will be using my laptop to track my face and fingers which then renders the 3D model and sends the virtual camera to my NAS.
 My Desktop where the games will be running on will be streaming the audio of my mixing desk together with the video of my main monitor to my NAS.
