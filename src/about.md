@@ -14,7 +14,7 @@ Also, I am very much interested in networking and trains.
 
 # Social / Internet Presence
 
-You can find on those platforms:
+You can find me these platforms:
 
 +------------+---------------------------------------------------+
 | Twitch     | [MaidLucy](https://twitch.tv/maidlucy)            |
