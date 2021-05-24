@@ -12,9 +12,19 @@ My name is Lucy and I like to play around with software and hardware.
 I don't like Windows and try to avoid closed source software as much as possible because I can't play with it.
 Also, I am very much interested in networking and trains.
 
+# Social / Internet Presence
+
+You can find on those platforms:
+
++------------+---------------------------------------------------+
+| Twitch     | [MaidLucy](https://twitch.tv/maidlucy)            |
++------------+---------------------------------------------------+
+| YouTube    | [MaidLucy](https://www.youtube.com/maidlucy)      |
++------------+---------------------------------------------------+
+
 # Contact
 
-If you would like to reach out to me, you can find me here:
+If you would like to reach out to me, you can also find me here:
 
 +------------+---------------------------------------------------+
 | E-Mail     | [lu@asagi.moe](mailto:lu@asagi.moe)               |
@@ -25,7 +35,7 @@ If you would like to reach out to me, you can find me here:
 +------------+---------------------------------------------------+
 | Discord    | Lucy#1752                                         |
 +------------+---------------------------------------------------+
-| anilist.co | [Lux49](https://anilist.co/user/Lux49)            |
+| anilist.co | [Lux49](https://anilist.co/user/MaidLucy)         |
 +------------+---------------------------------------------------+
 
 # Privacy Policy
