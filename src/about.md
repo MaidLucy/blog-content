@@ -14,7 +14,7 @@ Also, I am very much interested in networking and trains.
 
 # Social / Internet Presence
 
-You can find me these platforms:
+You can find me on these platforms:
 
 +------------+---------------------------------------------------+
 | Twitch     | [MaidLucy](https://twitch.tv/maidlucy)            |
@@ -35,7 +35,7 @@ If you would like to reach out to me, you can also find me here:
 +------------+---------------------------------------------------+
 | Discord    | Lucy#1752                                         |
 +------------+---------------------------------------------------+
-| anilist.co | [Lux49](https://anilist.co/user/MaidLucy)         |
+| anilist.co | [MaidLucy](https://anilist.co/user/MaidLucy)      |
 +------------+---------------------------------------------------+
 
 # Privacy Policy
