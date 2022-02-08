@@ -2,6 +2,7 @@
 title: Lucys Blog
 header-includes: 
 - |
+   <link rel="icon" type="image/png" href="https://f.lucy.moe/favicon.png">
    <meta property="og:type" content="website" />
    <meta property="og:title" content="Lucys Blog" />
    <meta property="twitter:title" content="Lucys Blog" />
