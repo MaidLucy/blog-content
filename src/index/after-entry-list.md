@@ -2,7 +2,7 @@
 
 <br>
 
-This is me, nya! ]()♡
+This is me, nya! ♡
 
 <div style="text-align:center"><img src="https://f.lucy.moe/lucy-maid.jpg" /></div>
 
